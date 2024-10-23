@@ -1,4 +1,4 @@
-The documentation folder of the MSc project "Multi Element High-Lift system: double fowler flap optimization project" is here reported in this repository.
+The documentation folder of the Politecnico di Milano MSc project "Multi Element High-Lift system: double fowler flap optimization project" is here reported in this repository.
 All the sources codes of the project are contained here, together with the necessary data for the scripts.
 
 
