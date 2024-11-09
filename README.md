@@ -11,7 +11,10 @@ All the sources codes of the project are contained here, together with the neces
 -  HSPM2DMP.m: Matlab function for any number of surfaces.
                     AUTHORS: Alberto Carnevali, Paolo Avaldi.
 
+-  OPTIMIZATION.m: Matlab script for C_p, C_L, Stall optimization run.
+                    AUTHORS: Alberto Carnevali, Paolo Avaldi.
+
 -  HS_VALIDATION.m: Matlab script for panel method validation (Williams test case included).
                     AUTHORS: Alberto Carnevali, Paolo Avaldi.
 
--  Data: folder containing necessary data for HS_VALIDATION.m correct run (.dat and .csv files).
+-  Data: folder containing necessary data for every script correct run (.dat and .csv files).
